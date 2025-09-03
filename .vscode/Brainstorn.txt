@@ -1,0 +1,29 @@
+🧠 Brainstorming: Soluções para o Estacionamento
+Problemas Identificados
+Superlotação e desrespeito às vagas marcadas
+Danos aos veículos (portas amassadas, riscos)
+Falta de controle sobre entrada/saída de veículos
+Manobristas sem visão clara da ocupação
+Suspeita de evasão de pagamento
+Controle manual e pagamento em dinheiro
+Ideias para Soluções
+Tecnologia e Automação
+
+Instalar sensores de presença em cada vaga para monitorar ocupação em tempo real.
+Criar um sistema digital de entrada/saída com QR Code ou reconhecimento de placa.
+Desenvolver um aplicativo para reserva de vagas e pagamento online.
+Usar câmeras com OCR para registrar placas automaticamente.
+Organização e Gestão
+
+Mapear o estacionamento com numeração clara das vagas.
+Treinar os manobristas para seguir um protocolo de entrada/saída.
+Criar um painel digital interno mostrando vagas disponíveis.
+Segurança e Controle
+
+Implementar um sistema de ticket com horário de entrada e saída.
+Registrar cada veículo com foto na entrada.
+Adotar pagamento eletrônico (cartão, Pix) para evitar manuseio de dinheiro.
+Infraestrutura
+
+Redesenhar o layout do estacionamento para otimizar espaço.
+Criar corredores de circulação para evitar danos aos veículos.
