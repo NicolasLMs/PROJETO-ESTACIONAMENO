@@ -9,3 +9,6 @@ link : <https://alunoimpacta-my.sharepoint.com/:w:/g/personal/2403929_alunoimpac
 
 Reunião Cliente Expectativa
 link: <https://alunoimpacta-my.sharepoint.com/:w:/g/personal/2403929_alunoimpacta_com_br/EQRrvegW2RpMqOh_s0MeUtIBOiXmPyS9pV5qvc5wPWJEAg?e=M1tcVK>
+
+Resultado formulário:
+link: <https://docs.google.com/spreadsheets/d/134zvvZTOCtV95wT_4Mz5891oNPqByNyCrLmn5U9nlKw/edit?usp=sharing>
